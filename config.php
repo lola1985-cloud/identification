@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <h2>inscription</h2>
+        <h2><?php echo "inscription" ?></h2>
 </br>
 <form method="post" action="">
     <table>
